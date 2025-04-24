@@ -3,3 +3,5 @@
 ## Learning about Version Control
 
 Author: Nika Karimi Seffat
+
+Solving merge conflicts is easy!
